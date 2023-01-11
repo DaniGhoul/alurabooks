@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um site para divulgação da Alura Books, um site de vendas de livros educacionais. O site foi construído com a abordagem mobile-first (428px), e posteriormente foi adaptado para ajustar-se a outros dois tamanhos de tela (1024px e 1728px).
+Um site para divulgação da Alura Books, um marketplace de livros educacionais. O site foi construído com a abordagem mobile-first (428px), e posteriormente foi adaptado para ajustar-se a outros dois tamanhos de tela (1024px e 1728px).
 
 ## 🔖 Layout
 
